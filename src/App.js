@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Comp1 from './components/Comp1';
+import SocialButtons from './components/SocialButtons';
 
 function App() {
   return (
     <div>
-      <Comp1 />
+      <SocialButtons />
     </div>
   );
 }
