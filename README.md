@@ -1,6 +1,4 @@
-#Output
 ![Alt text](/buttons_Screen.png?raw=true "Optional Title")
-
 
 
 # Getting Started with Create React App
