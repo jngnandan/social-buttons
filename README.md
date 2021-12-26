@@ -1,5 +1,5 @@
 #Output
-![Alt text](/relative/path/to/buttons_Screen.png?raw=true "Optional Title")
+![Alt text](/buttons_Screen.png?raw=true "Optional Title")
 
 
 
