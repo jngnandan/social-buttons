@@ -1,3 +1,8 @@
+#Output
+![Alt text](/relative/path/to/buttons_Screen.png?raw=true "Optional Title")
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
